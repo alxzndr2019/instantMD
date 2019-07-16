@@ -1,3 +1,3 @@
-# CRUD drug api
+# drug api
 
-CRUD
+*a robust drug api created by yours truly*
